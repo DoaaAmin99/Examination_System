@@ -1,0 +1,15 @@
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.exe
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.deps.json
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.runtimeconfig.json
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.dll
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.pdb
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.csproj.AssemblyReference.cache
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfoInputs.cache
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfo.cs
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.csproj.CoreCompileInputs.cache
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.dll
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\refint\Examination System.dll
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.pdb
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.genruntimeconfig.cache
+D:\Route\Full stack -Route\Back-end\Exams\C# Exam\Test\Examination System Solution\Examination System\obj\Debug\net6.0\ref\Examination System.dll
