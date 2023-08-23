@@ -26,7 +26,7 @@ namespace Examination_System
                 Console.WriteLine($"The Elapsed Time = {SW.Elapsed}");
             }
             else
-                Console.WriteLine("BYE BYE ......");
+                Console.WriteLine("BYE BYE ...... :)");
         }
     }
 }
